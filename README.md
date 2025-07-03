@@ -8,7 +8,7 @@ A modern, responsive banking dashboard built with React, TypeScript, and Tailwin
 - 💱 **Live Exchange Rates** - Real-time currency conversion with bank rate comparisons
 - 📊 **Transaction Timeline** - Detailed transaction history with categorization
 - 🌙 **Dark/Light Theme** - Seamless theme switching with system preference detection
-- 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile devices
+- 📱 **Responsive Design** - Optimised for desktop, tablet, and mobile devices
 - 🔒 **Security Features** - Balance visibility toggle and encrypted transactions
 
 ## Tech Stack
@@ -47,16 +47,6 @@ npm run dev
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-## Design System
-
-The application uses a custom design system with:
-
-- **Colors**: Blue accent (#2563EB) with light/dark theme support
-- **Typography**: Inter font family with editorial styling
-- **Spacing**: 8px grid system
-- **Animations**: Smooth transitions and micro-interactions
-- **Glass morphism**: Backdrop blur effects for modern UI
-
 ## Features in Detail
 
 ### Portfolio Management
@@ -65,7 +55,7 @@ The application uses a custom design system with:
 - Secure balance visibility toggle
 
 ### Transaction History
-- Categorized transactions (Business, Travel, Shopping, etc.)
+- Categorized transactions
 - Indian location-based transaction data
 - Real-time status updates
 
@@ -87,7 +77,7 @@ Update the `currencies` array in `WalletOverview.tsx`:
 ```typescript
 const currencies = [
   { code: 'INR', symbol: '₹', balance: 1047832.50, change: +2.34, flag: '🇮🇳' },
-  // Add new currency here
+  
 ];
 ```
 
@@ -97,7 +87,7 @@ Update the `categoryColors` object in `TransactionTimeline.tsx`:
 ```typescript
 const categoryColors = {
   Business: 'bg-blue-500/20 text-blue-400',
-  // Add new category here
+  
 };
 ```
 
