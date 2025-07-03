@@ -13,12 +13,12 @@ A modern, responsive banking dashboard built with React, TypeScript, and Tailwin
 
 ## Tech Stack
 
-- **Frontend**: React 18, TypeScript
+- **Frontend**: React, TypeScript
 - **Styling**: Tailwind CSS with custom design system
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 - **Build Tool**: Vite
-- **Deployment**: Netlify
+- **Deployment**: Github Pages
 
 ## Getting Started
 
@@ -46,25 +46,6 @@ npm run dev
 ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-## Project Structure
-
-```
-src/
-├── components/          # Reusable UI components
-│   ├── CTAStrip.tsx    # Bottom call-to-action strip
-│   ├── ExchangeRates.tsx # Currency exchange rates
-│   ├── Sidebar.tsx     # Navigation sidebar
-│   ├── ThemeToggle.tsx # Theme switching component
-│   ├── TopBar.tsx      # Top navigation bar
-│   ├── TransactionTimeline.tsx # Transaction history
-│   └── WalletOverview.tsx # Portfolio overview
-├── contexts/           # React contexts
-│   └── ThemeContext.tsx # Theme management
-├── App.tsx            # Main application component
-├── main.tsx           # Application entry point
-└── index.css          # Global styles
-```
 
 ## Design System
 
@@ -130,7 +111,6 @@ const categoryColors = {
 ## Browser Support
 
 - Chrome 90+
-- Firefox 88+
 - Safari 14+
 - Edge 90+
 
@@ -157,4 +137,4 @@ Project Link: [https://sairaj-financeclub.netlify.app](https://sairaj-financeclu
 - Design inspiration from modern fintech applications
 - Icons provided by Lucide React
 - Animations powered by Framer Motion
-- Deployed on Netlify
+- Deployed on Netlify and Github Pages
