@@ -52,11 +52,11 @@ npm run dev
 
 ### Portfolio Management
 - Real-time balance tracking across multiple currencies
-- Visual progress indicators for account utilization
+- Visual progress indicators for account utilisation
 - Secure balance visibility toggle
 
 ### Transaction History
-- Categorized transactions
+- Categorised transactions
 - Indian location-based transaction data
 - Real-time status updates
 
@@ -92,12 +92,12 @@ const categoryColors = {
 };
 ```
 
-## Performance Optimizations
+## Performance Optimisations
 
 - Lazy loading of components
-- Optimized animations with Framer Motion
+- Optimised animations with Framer Motion
 - Efficient re-rendering with React hooks
-- Minimized bundle size with Vite
+- Minimised bundle size with Vite
 
 ## Browser Support
 
@@ -121,11 +121,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Sairaj Chowdhary - [GitHub](https://github.com/sairajchowdhary)
 
-Project Link: [https://sairaj-financeclub.netlify.app]([https://sairaj-financeclub.netlify.app](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--6e337437.local-credentialless.webcontainer-api.io/financeclub)
-
 ## Acknowledgments
 
 - Design inspiration from modern fintech applications
 - Icons provided by Lucide React
 - Animations powered by Framer Motion
-- Deployed on Netlify and Github Pages
+- Deployed on Github Pages
