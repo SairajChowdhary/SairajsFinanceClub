@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Sairaj Chowdhary - [GitHub](https://github.com/sairajchowdhary)
 
-Project Link: [https://sairaj-financeclub.netlify.app]([https://sairaj-financeclub.netlify.app](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--6e337437.local-credentialless.webcontainer-api.io/financeclub))
+Project Link: [https://sairaj-financeclub.netlify.app]([https://sairaj-financeclub.netlify.app](https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--5173--6e337437.local-credentialless.webcontainer-api.io/financeclub)
 
 ## Acknowledgments
 
