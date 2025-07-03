@@ -2,6 +2,7 @@
 
 A modern, responsive banking dashboard built with React, TypeScript, and Tailwind CSS. Features real-time currency exchange rates, transaction tracking, and portfolio management.
 
+##  NOTE: So in order host this webpage locally, run: 1.npm install 2. npm run dev
 ## Features
 
 - 🏦 **Multi-currency Portfolio Management** - Track balances across INR, USD, EUR, and GBP
