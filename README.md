@@ -1,4 +1,6 @@
 # FinanceClub - Personal Banking Dashboard
+![Uploading yesssss 2025-07-22 at 12.35.51 PM.png…]()
+
 
 A modern, responsive banking dashboard built with React, TypeScript, and Tailwind CSS. Features real-time currency exchange rates, transaction tracking, and portfolio management.
 
