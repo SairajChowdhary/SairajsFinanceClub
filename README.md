@@ -1,10 +1,10 @@
 # FinanceClub - Personal Banking Dashboard
-![Uploading yesssss 2025-07-22 at 12.35.51 PM.png…]()
+<img width="1440" height="900" alt="yesssss 2025-07-22 at 12 35 51 PM" src="https://github.com/user-attachments/assets/b50fad01-d1b4-44d9-a55f-9db7bfc9dd3a" />
 
 
 A modern, responsive banking dashboard built with React, TypeScript, and Tailwind CSS. Features real-time currency exchange rates, transaction tracking, and portfolio management.
 
-##  NOTE: So in order host this webpage locally, run: 1.npm install 2. npm run dev
+##  NOTE: So in order to host this webpage locally, run: 1.npm install 2. npm run dev
 ## Features
 
 - 🏦 **Multi-currency Portfolio Management** - Track balances across INR, USD, EUR, and GBP
