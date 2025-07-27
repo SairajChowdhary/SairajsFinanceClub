@@ -1,4 +1,4 @@
-# FinanceClub - Personal Banking Dashboard
+# Bull Sheet - Personal Banking Dashboard
 <img width="1440" height="900" alt="yesssss 2025-07-22 at 12 35 51 PM" src="https://github.com/user-attachments/assets/b50fad01-d1b4-44d9-a55f-9db7bfc9dd3a" />
 
 
